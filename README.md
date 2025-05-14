@@ -22,14 +22,14 @@
 <p><b>Note: </b>the code doesn't support moving the image nor it resize it to adjust the screen. So just make the changes and save or close.</p>
 <h2>Examples</h2>
 <figure>
-	<img src="https://github.com/Ginazai/JavaBorder/blob/master/examples/SampleImage.jpg" width="75%">
+	<img src="https://github.com/Ginazai/JavaBorder/blob/master/examples/SampleImage.jpg" width="100%">
 	<figcaption>Fig. 1: original image</figcaption>
 </figure>
 <figure>
-	<img src="https://github.com/Ginazai/JavaBorder/blob/master/examples/SampleImage-copy(white%20border).jpg" width="75%">
+	<img src="https://github.com/Ginazai/JavaBorder/blob/master/examples/SampleImage-copy(white%20border).jpg" width="100%">
 	<figcaption>Fig. 2: white border square image</figcaption>
 </figure>
 <figure>
-	<img src="https://github.com/Ginazai/JavaBorder/blob/master/examples/SampleImage-copy(black%20border).jpg" width="75%">
+	<img src="https://github.com/Ginazai/JavaBorder/blob/master/examples/SampleImage-copy(black%20border).jpg" width="100%">
 	<figcaption>Fig. 3: black border square image</figcaption>
 </figure>
